@@ -11,3 +11,5 @@ const makeObj = (companyName, addressFullStreet, addressCity, addressStateCode,
           }
     return newObj;
 }
+
+export default makeObj;
