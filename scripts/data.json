@@ -1,8 +1,9 @@
+
 {
   "businesses": [
     {
       "purchasingAgent": { "nameLast": "Kirlin", "nameFirst": "Kristy" },
-      "phoneWork": "089.129.2290 x9400", 
+      "phoneWork": "089.129.2290 x9400",
       "orders": [7826.96, 8323.11, 5756.28, 6308.42, 5622.28],
       "companyName": "Care-media",
       "companyIndustry": "Education",
